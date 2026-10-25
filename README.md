@@ -1,0 +1,1 @@
+Built an Inventory Dashboard using HTML and JavaScript to manage products with user input and validation. Features include price-based categorization, product search, inventory value calculation, tax and discount processing, affordable item filtering, and report generation using modern JavaScript methods.
